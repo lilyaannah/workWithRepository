@@ -5,6 +5,6 @@ public class Main {
 
         Dog dog=new Dog();
        dog.sleep();
-
+        dog.eat();
     }
 }
